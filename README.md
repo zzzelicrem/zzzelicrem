@@ -31,9 +31,6 @@ I enjoy building software, experimenting with technologies, solving programming 
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech CSE · Thapar Institute of Engineering & Technology |
-| 💻 **Primary Focus** | Software Development |
-| 🧠 **Currently Exploring** | Data Structures, Algorithms & Machine Learning |
-| 🚀 **Interests** | Algorithms, AI/ML & Development |
 | 📍 **Based In** | India |
 
 ---
@@ -212,23 +209,7 @@ View Repository →
 
 # Current Focus
 
-<div align="center">
-
-**Data Structures & Algorithms**
-
-↓  
-
-**Problem Solving**
-
-↓  
-
-**Machine Learning**
-
-↓  
-
-**Building Better Projects**
-
-</div>
+`Data Structures & Algorithms` · `Problem Solving` · `Machine Learning` · `Software Development`
 
 ---
 
